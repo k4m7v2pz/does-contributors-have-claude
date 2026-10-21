@@ -1,1 +1,1 @@
-# does-contributors-have-claude
+本仓库用于检测commit信息中对contributors成员的影响。
